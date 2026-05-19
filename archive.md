@@ -23,3 +23,7 @@ Explored PATH, PATHEXT, and Windows command resolution.
 ## Contact
 Github: [RebeccaNyachieo](https://github.com/RebeccaNyachieo)
 
+_config.yml
+title: Rebecca Nyachieo
+description: Cybersecurity student and doctoral student in Traditional Chinese Medicine.
+theme: jekyll-theme-minimal
