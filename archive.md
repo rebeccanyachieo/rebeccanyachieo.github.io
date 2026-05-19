@@ -1,7 +1,7 @@
 # Rebecca Nyachieo
 Cybersecurity student and doctoral student in Traditional Chinese Medicine exploring systems, diognostics, and pattern recognition.
 
-Interested in defensive security, operating system behavior, and hands-on labs and documentation.
+Interested in defensive security, operating system behavior, and learning through hands-on labs and documentation.
 
 ## Featured Work
 
@@ -22,3 +22,4 @@ Explored PATH, PATHEXT, and Windows command resolution.
 
 ## Contact
 Github: [RebeccaNyachieo](https://github.com/RebeccaNyachieo)
+
