@@ -1,5 +1,5 @@
 # Rebecca Nyachieo
-Cybersecurity student and doctral student in Traditional Chinese Medicine exploring systems, diognostics, and pattern recognition.
+Cybersecurity student and doctoral student in Traditional Chinese Medicine exploring systems, diognostics, and pattern recognition.
 
 ## Featured Work
 
